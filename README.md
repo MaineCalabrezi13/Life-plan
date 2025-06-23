@@ -2,6 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
+  <title>Life Plan — Agenda Semanal Interativa</title>
 </head>
 <body>
   <h1>📅 Life Plan — Agenda Semanal Interativa</h1>
