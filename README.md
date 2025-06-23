@@ -39,6 +39,9 @@
   </ul>
 
   <h2>🧠 Como Rodar o Projeto Localmente</h2>
+  <p>git clone https://github.com/seu-usuario/life-plan.git</p>
+  <p>cd life-plant</p>
+  <p>npm install</p>
   <p>npm start</p>
 </body>
 </html>
